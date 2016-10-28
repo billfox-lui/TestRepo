@@ -5,3 +5,4 @@ Git tracks change of files.
 this file has pushed remote serser github.
 Creating a new branch is quick.
 Creating a new brance 'feature1'.
+disallow fast forward
